@@ -1,5 +1,5 @@
 ---
-Title: "samplot"
+Title: "Drwa the design of the sample plots"
 Author: Zongzheng Chai
 Email: chaizz@126.com
 ---
