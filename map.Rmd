@@ -28,8 +28,8 @@ southocean.pA<-southocean.p+
                       distanceLat = 30, distanceLegend = 80, 
                        dist.unit = "km",arrow.length = 150, 
            arrow.distance = 120, arrow.North.size = 7)
-##ggsave("southocean.png",width=14,height=16,unit="cm", dpi=600)
 southocean.pA
+##ggsave("southocean.png",width=14,height=16,unit="cm", dpi=600)
 ```
 
 ![](memoR_files/pictures/southocean.png) 
