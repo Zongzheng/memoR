@@ -1,7 +1,7 @@
 ---
-title: "Drawing map"
-output: github_document
-auther: Zongzheng Chai <chaizz@126.com>
+Title: "Drawing map"
+Author: Zongzheng Chai 
+Email: chaizz@126.com
 ---
 
 ## Drawing a map for south ocean
