@@ -1,5 +1,5 @@
 ---
-Title: "Draw sample plots"
+Title: "samplot"
 Author: Zongzheng Chai
 Email: chaizz@126.com
 ---
