@@ -37,6 +37,7 @@ P<-ggplot(aes(x=x,y=y),data=data.frame(x=c(0,20,20,0),y=c(0,0,20,20)))+
                 xmax=10.5,
                 ymin=9.5,
                 ymax=10.5),fill = grey(0.2),colour="black")
+P
 ##ggsave("samplot.png",width=8,height=8,unit="cm", dpi=400)
 ```
 ![](memoR_files/pictures/samplot.png)
